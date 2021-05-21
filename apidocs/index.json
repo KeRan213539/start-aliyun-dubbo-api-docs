@@ -1,0 +1,7 @@
+{
+  "difficulty": 1,
+  "duration": 10,
+  "initScript": "init-api-docs.sh",
+  "layout": "editor+terminal",
+  "spec": "Heigh"
+}
